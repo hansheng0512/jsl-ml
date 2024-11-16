@@ -1,0 +1,5 @@
+ModelName,AvgEncoderTime,AvgDecoderTime,Accuracy,EncoderSize,DecoderSize
+pix2struct_docvqa_with_original,2.77,2.91,0,350.53,726.87
+pix2struct_docvqa_with_fp16,2.68,3.31,0.0,175.44,363.73
+pix2struct_docvqa_with_dynamic_quant,3.01,3.39,0.56,87.93,182.16
+pix2struct_docvqa_with_original_cache,2.9,0.8,0,350.53,726.87

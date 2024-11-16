@@ -1,0 +1,27 @@
+Pruning:
+https://github.com/princeton-nlp/CoFiPruning
+https://www.youtube.com/watch?v=G07ft-IiL6o
+https://github.com/huggingface/nn_pruning
+https://aclanthology.org/2021.emnlp-main.829.pdf
+https://docs.nebuly.com/Speedster/getting_started/onnx_getting_started/#2-run-the-optimization
+
+Intel Neural Compressor:
+https://github.com/intel/neural-compressor
+
+Quantization:
+https://pytorch.org/tutorials/prototype/fx_graph_mode_ptq_static.html
+https://github.com/hahnyuan/PTQ4ViT
+https://arxiv.org/pdf/2002.11794.pdf
+
+Distillation:
+https://link.springer.com/article/10.1007/s40747-023-01036-0
+
+Donut:
+https://arxiv.org/pdf/2111.15664.pdf
+
+Pix2Struct:
+https://arxiv.org/pdf/2210.03347.pdf
+
+
+
+
